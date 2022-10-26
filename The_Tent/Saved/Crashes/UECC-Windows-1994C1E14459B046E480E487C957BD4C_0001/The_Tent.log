@@ -1,0 +1,1418 @@
+﻿Log file open, 10/26/22 14:14:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=2744)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: The_Tent
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Joel.crawford\Documents\GitHub\TeamGame2\The_Tent\The_Tent.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.978] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i7-12700KF"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="403c955e414bfb324f8b908de2a35ded"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.257580
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1994C1E14459B046E480E487C957BD4C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.978] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700KF, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.26-19.14.51:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.26-19.14.51:580][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.26-19.14.51:580][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.26-19.14.51:581][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.26-19.14.51:583][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.26-19.14.51:590][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.26-19.14.51:590][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.26-19.14.51:669][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.10.26-19.14.51:669][  0]LogHMD: Optional extension XR_KHR_binding_modification is not available
+[2022.10.26-19.14.51:669][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
+[2022.10.26-19.14.51:669][  0]LogHMD: Initialized OpenXR on Oculus runtime version 1.78.0
+[2022.10.26-19.14.51:767][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.26-19.14.51:768][  0]LogD3D12RHI: Adapter has 10078MB of dedicated video memory, 0MB of dedicated system memory, and 32664MB of shared system memory, 2 output[s]
+[2022.10.26-19.14.51:781][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.26-19.14.51:781][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32664MB of shared system memory, 0 output[s]
+[2022.10.26-19.14.51:781][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.26-19.14.51:781][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.26-19.14.51:781][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.26-19.14.51:781][  0]LogHAL: Display: Platform has ~ 64 GB [68501741568 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.26-19.14.51:781][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.26-19.14.51:781][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.26-19.14.51:781][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.26-19.14.51:781][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.26-19.14.51:781][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.26-19.14.51:782][  0]LogInit: Computer: DESKTOP-8O4Q6F2
+[2022.10.26-19.14.51:782][  0]LogInit: User: joelcrawford
+[2022.10.26-19.14.51:782][  0]LogInit: CPU Page size=4096, Cores=12
+[2022.10.26-19.14.51:782][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.26-19.14.51:782][  0]LogMemory: Memory total: Physical=63.8GB (64GB approx)
+[2022.10.26-19.14.51:782][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.26-19.14.51:782][  0]LogMemory: Process Physical Memory: 302.97 MB used, 312.61 MB peak
+[2022.10.26-19.14.51:782][  0]LogMemory: Process Virtual Memory: 273.30 MB used, 273.30 MB peak
+[2022.10.26-19.14.51:782][  0]LogMemory: Physical Memory: 10786.85 MB used,  54541.50 MB free, 65328.35 MB total
+[2022.10.26-19.14.51:782][  0]LogMemory: Virtual Memory: 15404.13 MB used,  59652.22 MB free, 75056.35 MB total
+[2022.10.26-19.14.51:782][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.26-19.14.51:787][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.26-19.14.51:804][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.26-19.14.51:805][  0]LogInit: Using OS detected language (en-US).
+[2022.10.26-19.14.51:805][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.26-19.14.51:807][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.26-19.14.51:903][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.26-19.14.51:917][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.26-19.14.51:917][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.26-19.14.51:917][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.10.26-19.14.51:917][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.26-19.14.51:934][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.26-19.14.51:934][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.26-19.14.52:187][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.26-19.14.52:193][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.26-19.14.52:193][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.26-19.14.52:258][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.26-19.14.52:320][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.26-19.14.52:323][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.26-19.14.52:332][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.26-19.14.52:354][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.26-19.14.52:354][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.26-19.14.52:373][  0]LogD3D12RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.26-19.14.52:373][  0]LogWindows: Attached monitors:
+[2022.10.26-19.14.52:373][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1440), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.26-19.14.52:373][  0]LogWindows:     resolution: 1920x1080, work area: (287, -1080) -> (2207, 0), device: '\\.\DISPLAY2'
+[2022.10.26-19.14.52:373][  0]LogWindows: Found 2 attached monitors.
+[2022.10.26-19.14.52:373][  0]LogWindows: EnumDisplayDevices:
+[2022.10.26-19.14.52:373][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.26-19.14.52:373][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.10.26-19.14.52:373][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.26-19.14.52:373][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.26-19.14.52:373][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.26-19.14.52:373][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2022.10.26-19.14.52:373][  0]LogD3D12RHI:   Driver Version: 517.48 (internal:31.0.15.1748, unified:517.48)
+[2022.10.26-19.14.52:373][  0]LogD3D12RHI:      Driver Date: 9-21-2022
+[2022.10.26-19.14.52:373][  0]LogRHI: Texture pool is 5865 MB (70% of 8379 MB)
+[2022.10.26-19.14.52:373][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.26-19.14.52:373][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.26-19.14.52:380][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.26-19.14.52:388][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/The_Tent.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/The_Tent.uproject"  -platform=all'
+[2022.10.26-19.14.52:388][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/The_Tent.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/The_Tent.uproject"  -platform=all" ]
+[2022.10.26-19.14.52:419][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.26-19.14.52:432][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.26-19.14.52:432][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.26-19.14.52:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.26-19.14.52:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.26-19.14.52:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.26-19.14.52:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.26-19.14.52:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.26-19.14.52:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.26-19.14.52:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.26-19.14.52:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.26-19.14.52:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.26-19.14.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.26-19.14.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.26-19.14.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.26-19.14.52:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.26-19.14.52:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.26-19.14.52:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.26-19.14.52:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.26-19.14.52:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.26-19.14.52:482][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.26-19.14.52:482][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.26-19.14.52:492][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.26-19.14.52:494][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.26-19.14.52:494][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.26-19.14.52:495][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.26-19.14.52:495][  0]LogTargetPlatformManager:   PCM
+[2022.10.26-19.14.52:498][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.26-19.14.52:498][  0]LogTargetPlatformManager:   BINKA
+[2022.10.26-19.14.52:498][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.26-19.14.52:498][  0]LogTargetPlatformManager:   OGG
+[2022.10.26-19.14.52:498][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.26-19.14.52:498][  0]LogTargetPlatformManager:   OPUS
+[2022.10.26-19.14.52:537][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.26-19.14.52:537][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.26-19.14.52:546][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.26-19.14.52:550][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.26-19.14.52:550][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.26-19.14.52:550][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.26-19.14.52:550][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.26-19.14.52:550][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.26-19.14.52:550][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.26-19.14.52:550][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.26-19.14.52:550][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.26-19.14.52:550][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.26-19.14.52:550][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.26-19.14.52:550][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.26-19.14.52:550][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.26-19.14.52:553][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.26-19.14.52:553][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.26-19.14.52:553][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.26-19.14.52:553][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.26-19.14.52:567][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.26-19.14.52:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.26-19.14.52:567][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.26-19.14.52:577][  0]LogDerivedDataCache: Speed tests for C:/Users/Joel.crawford/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.26-19.14.52:577][  0]LogDerivedDataCache: Display: Performance to C:/Users/Joel.crawford/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=320.88MBs, RandomWriteSpeed=149.07MBs. Assigned SpeedClass 'Local'
+[2022.10.26-19.14.52:578][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joel.crawford/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.26-19.14.52:578][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.26-19.14.52:578][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.26-19.14.52:583][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.26-19.14.52:583][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.26-19.14.52:583][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Intermediate/Shaders/WorkingDirectory/13268/).
+[2022.10.26-19.14.52:583][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joel.crawford/AppData/Local/Temp/UnrealShaderWorkingDir/35E511174EE0548D3D7708A13645C7D6/'.
+[2022.10.26-19.14.52:584][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.26-19.14.52:584][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2022.10.26-19.14.53:568][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.26-19.14.53:569][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.26-19.14.53:605][  0]LogAssetRegistry: FAssetRegistry took 0.0114 seconds to start up
+[2022.10.26-19.14.53:609][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.26-19.14.53:719][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.26-19.14.53:719][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.26-19.14.53:915][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.26-19.14.53:915][  0]LogDeviceProfileManager: Active device profile: [0000089F35F7E8C0][0000089F2A7F7800 50] WindowsEditor
+[2022.10.26-19.14.53:915][  0]LogDeviceProfileManager: Profiles: [0000089F35F7E380][0000089F2E76C800 50] Windows, [0000089F35F7E8C0][0000089F2A7F7800 50] WindowsEditor, [0000089F35F7CE80][0000089F2A512800 50] WindowsServer, [0000089F35F7BB40][0000089F19287800 50] WindowsClient, [0000089F35F7C5C0][0000089F2E042800 50] IOS, [0000089F35F7A2C0][0000089F2A7FA000 50] iPadAir2, [0000089F35F7F340][0000089F36D00000 50] IPadPro, [0000089F35F7F6C0][0000089F36D02800 50] iPadAir3, [0000089F35F7A640][0000089F36D07800 50] iPadAir4, [0000089F35F7B980][0000089F36D0A000 50] iPadMini4, [0000089F35F7A9C0][0000089F36D0C800 50] iPadMini5, [0000089F35F7B7C0][0000089F2E040000 50] iPadMini6, [0000089F36DA1C00][0000089F36CB2800 50] iPhone6S, [0000089F36DA1A40][0000089F36CB0000 50] iPhone7, [0000089F36DA16C0][0000089F36CB5000 50] iPodTouch7, [0000089F36DA2680][0000089F36CBA000 50] iPhone6SPlus, [0000089F36DA24C0][0000089F36CBC800 50] iPhone7Plus, [0000089F36DA2300][0000089F36D05000 50] iPhoneSE, [0000089F36DA2140][0000089F36CB7800 50] iPhone8, [0000089F36DA1F80][0000089F36D60000 50] iPhone8Plus, [0000089F36DA2F40][0000089F36D65000 50] iPhoneX, [0000089F36DA2840][0000089F36D67800 50] iPhoneXS, [0000089F36DA0380][0000089F36D6A000 50] iPhoneXSMax, [0000089F36DA2BC0][0000089F36D6C800 50] iPhoneXR, [0000089F36DA3100][0000089F2A74A000 50] iPhone11, [0000089F36DA1DC0][0000089F36D70000 50] iPhone11Pro, [0000089F36DA2A00][0000089F36D75000 50] iPhone11ProMax, [0000089F36DA32C0][0000089F36D77800 50] iPhoneSE2, [0000089F36DA0A80][0000089F36D7A000 50] iPhone12Mini, [0000089F36DA3F00][0000089F36D7C800 50] iPhone12, [0000089F36DA3800][0000089F36D62800 50] iPhone12Pro, [0000089F36DA0700][0000089F36D80000 50] iPhone12ProMax, [0000089F36DA3B80][0000089F36D85000 50] iPhone13Mini, [0000089F36DA40C0][0000089F36D87800 50] iPhone13, [0000089F36DA0FC0][0000089F36D8A000 50] iPhone13Pro, [0000089F36DA39C0][0000089F36D8C800 50] iPhone13ProMax, [0000089F36DA4280][0000089F36D72800 50] iPadPro105, [0000089F36DA1180][0000089F36D90000 50] iPadPro129, [0000089F36DA4EC0][0000089F36D95000 50] iPadPro97, [0000089F36DA47C0][0000089F36D97800 50] iPadPro2_129, [0000089F36DA2D80][0000089F36D9A000 50] iPad5, [0000089F36DA4B40][0000089F36D9C800 50] iPad6, [0000089F36DA5080][0000089F36D82800 50] iPad7, [0000089F36DA0000][0000089F36DB0000 50] iPad8, [0000089F36DA4980][0000089F36DB5000 50] iPad9, [0000089F36DA5240][0000089F36DB7800 50] iPadPro11, [0000089F36DA08C0][0000089F36DBA000 50] iPadPro2_11, [0000089F36DA5E80][0000089F36DBC800 50] iPadPro3_11, [0000089F36DA6200][0000089F36D92800 50] iPadPro3_129, [0000089F36DA1340][0000089F36DC0000 50] iPadPro4_129, [0000089F36DA5B00][0000089F36DC5000 50] iPadPro5_129, [0000089F36DA6040][0000089F36DC7800 50] AppleTV, [0000089F36DA3D40][0000089F36DCA000 50] AppleTV4K, [0000089F36DA5940][0000089F36DCC800 50] TVOS, [0000089F36DA9140][0000089F36DD0000 50] Mac, [0000089F36DA94C0][0000089F36DD2800 50] MacEditor, [0000089F36DA7E00][0000089F36DD7800 50] MacClient, [0000089F36DA4600][0000089F36DDA000 50] MacServer, [0000089F36DA4D00][0000089F36DB2800 50] Linux, [0000089F36DA55C0][0000089F36DC2800 50] LinuxEditor, [0000089F36DA8A40][0000089F36DDC800 50] LinuxArm64Editor, [0000089F36DA0540][0000089F36DE0000 50] LinuxArm64, [0000089F36DA8880][0000089F36DE5000 50] LinuxClient, [0000089F36DA8180][0000089F36DE7800 50] LinuxArm64Client, [0000089F36DA6AC0][0000089F36DEA000 50] LinuxServer, [0000089F36DA7380][0000089F36DEC800 50] LinuxArm64Server, [0000089F36DA6900][0000089F36DD5000 50] Android, [0000089F36DA9300][0000089F36DF0000 50] Android_Preview_OpenGL, [0000089F36DA5CC0][0000089F36DF5000 50] Android_Preview_Vulkan, [0000089F36DA8F80][0000089F36DF7800 50] Android_Low, [0000089F36DA5400][0000089F36DFA000 50] Android_Mid, [0000089F36DA8DC0][0000089F36DFC800 50] Android_High, [0000089F36DA63C0][0000089F36DE2800 50] Android_Default, [0000089F36DA1880][0000089F36E00000 50] Android_Adreno4xx, [0000089F36DA3640][0000089F36E05000 50] Android_Adreno5xx_Low, [0000089F36DA8C00][0000089F36E07800 50] Android_Adreno5xx, [0000089F36DA8500][0000089F36E0A000 50] Android_Adreno6xx, [0000089F36DA0E00][0000089F36E0C800 50] Android_Adreno6xx_Vulkan, [0000089F36DA7000][0000089F36DF2800 50] Android_Adreno7xx, [0000089F36DA9840][0000089F36E10000 50] Android_Adreno7xx_Vulkan, [0000089F36DA6740][0000089F36E15000 50] Android_Mali_T6xx, [0000089F36DA7540][0000089F36E17800 50] Android_Mali_T7xx, [0000089F36DA7C40][0000089F36E1A000 50] Android_Mali_T8xx, [0000089F36DA9D80][0000089F36E1C800 50] Android_Mali_G71, [0000089F36DA1500][0000089F36E02800 50] Android_Mali_G72, [0000089F36DA7A80][0000089F36E20000 50] Android_Mali_G72_Vulkan, [0000089F36DA71C0][0000089F36E25000 50] Android_Mali_G76, [0000089F36DA9F40][0000089F36E27800 50] Android_Mali_G76_Vulkan, [0000089F36DA6E40][0000089F36E2A000 50] Android_Mali_G77, [0000089F36DA86C0][0000089F36E2C800 50] Android_Mali_G77_Vulkan, [0000089F36DAA100][0000089F36E12800 50] Android_Mali_G78, [0000089F36DA01C0][0000089F36E30000 50] Android_Mali_G78_Vulkan, [0000089F36DAAD40][0000089F36E35000 50] Android_Mali_G710, [0000089F36DAA640][0000089F36E37800 50] Android_Mali_G710_Vulkan, [0000089F36DA4440][0000089F36E3A000 50] Android_Xclipse_920, [0000089F36DAA9C0][0000089F36E3C800 50] Android_Xclipse_920_Vulkan, [0000089F36DAAF00][0000089F36E22800 50] Android_Vulkan_SM5, [0000089F36DA5780][0000089F36E40000 50] Android_PowerVR_G6xxx, [0000089F36DAA800][0000089F36E45000 50] Android_PowerVR_GT7xxx, [0000089F36DAB0C0][0000089F36E47800 50] Android_PowerVR_GE8xxx, [0000089F36DABD00][0000089F36E4A000 50] Android_PowerVR_GM9xxx, [0000089F36DA3480][0000089F36E4C800 50] Android_PowerVR_GM9xxx_Vulkan, [0000089F36DA0C40][0000089F36E32800 50] Android_TegraK1, [0000089F36DAB980][0000089F36E50000 50] Android_Unknown_Vulkan, [0000089F36DABEC0][0000089F36E55000 50] Oculus_Quest, [0000089F36DA6C80][0000089F36E57800 50] Oculus_Quest2, [0000089F36DAB7C0][0000089F36E5A000 50] HoloLens, 
+[2022.10.26-19.14.53:915][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.26-19.14.53:938][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.26-19.14.54:060][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.26-19.14.54:060][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.26-19.14.54:060][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.26-19.14.54:060][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.26-19.14.54:060][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.26-19.14.54:080][  0]LogNetVersion: The_Tent 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1163739220)
+[2022.10.26-19.14.54:203][  0]LogSlate: Border
+[2022.10.26-19.14.54:203][  0]LogSlate: BreadcrumbButton
+[2022.10.26-19.14.54:203][  0]LogSlate: Default
+[2022.10.26-19.14.54:203][  0]LogSlate: Icons.Save
+[2022.10.26-19.14.54:203][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.26-19.14.54:203][  0]LogSlate: ListView
+[2022.10.26-19.14.54:203][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.26-19.14.54:203][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.26-19.14.54:203][  0]LogSlate: TableView.DarkRow
+[2022.10.26-19.14.54:203][  0]LogSlate: TableView.Row
+[2022.10.26-19.14.54:203][  0]LogSlate: TreeView
+[2022.10.26-19.14.54:372][  0]SourceControl: Source control is disabled
+[2022.10.26-19.14.54:398][  0]SourceControl: Source control is disabled
+[2022.10.26-19.14.54:398][  0]SourceControl: Source control is disabled
+[2022.10.26-19.14.54:474][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.26-19.14.54:482][  0]LogUObjectArray: 20625 objects as part of root set at end of initial load.
+[2022.10.26-19.14.54:482][  0]LogUObjectAllocator: 5604136 out of 0 bytes used by permanent object pool.
+[2022.10.26-19.14.54:482][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.26-19.14.54:771][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 312315984A3E601DB7A69C8687416D58 | Instance: E7D2E34845D5C39B58E2F193CF91E016 (DESKTOP-8O4Q6F2-13268).
+[2022.10.26-19.14.54:880][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.26-19.14.54:887][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.26-19.14.54:927][  0]LogPython: Using Python 3.9.7
+[2022.10.26-19.14.55:440][  0]SourceControl: Source control is disabled
+[2022.10.26-19.14.55:456][  0]SourceControl: Source control is disabled
+[2022.10.26-19.14.55:471][  0]SourceControl: Source control is disabled
+[2022.10.26-19.14.55:476][  0]LogUProjectInfo: Found projects:
+[2022.10.26-19.14.55:476][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-19.14.55:477][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-19.14.55:477][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-19.14.55:752][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.26-19.14.55:795][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.26-19.14.55:809][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-19.14.55:809][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-19.14.55:985][  0]LogCollectionManager: Loaded 0 collections in 0.001099 seconds
+[2022.10.26-19.14.56:072][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Collections/' took 0.00s
+[2022.10.26-19.14.56:072][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/Developers/joelcrawford/Collections/' took 0.00s
+[2022.10.26-19.14.56:072][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/Collections/' took 0.00s
+[2022.10.26-19.14.56:072][  0]LogOcInput: OculusInput pre-init called
+[2022.10.26-19.14.56:487][  0]LogEngine: Initializing Engine...
+[2022.10.26-19.14.56:621][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.26-19.14.56:840][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.26-19.14.56:840][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-19.14.56:847][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-19.14.56:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.26-19.14.56:862][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.26-19.14.56:877][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.26-19.14.56:878][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.26-19.14.56:878][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.26-19.14.56:878][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.26-19.14.56:878][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.26-19.14.56:878][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-19.14.56:878][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-19.14.56:878][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-19.14.56:878][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-19.14.56:878][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.10.26-19.14.56:878][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-19.14.56:878][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.10.26-19.14.56:878][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-19.14.56:878][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.10.26-19.14.56:879][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.10.26-19.14.56:879][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-19.14.56:884][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-19.14.56:901][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.10.26-19.14.56:901][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-19.14.56:907][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-19.14.56:907][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-19.14.56:909][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.26-19.14.56:909][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.26-19.14.56:910][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.26-19.14.56:910][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.26-19.14.56:910][  0]LogInit: FAudioDevice initialized.
+[2022.10.26-19.14.56:910][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.26-19.14.56:910][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.26-19.14.56:910][  0]LogInit: Texture streaming: Enabled
+[2022.10.26-19.14.56:931][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.26-19.14.56:939][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.26-19.14.56:951][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.26-19.14.56:958][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.26-19.14.56:958][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.26-19.14.58:096][  0]LogLiveCoding: Display: First instance in process group "UE_The_Tent_0x56ee93be", spawning console
+[2022.10.26-19.14.58:096][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.26-19.14.58:096][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.26-19.14.58:130][  0]LogInit: Transaction tracking system initialized
+[2022.10.26-19.14.58:174][  0]BlueprintLog: New page: Editor Load
+[2022.10.26-19.14.58:299][  0]LocalizationService: Localization service is disabled
+[2022.10.26-19.14.58:327][  0]TimingProfiler: Initialize
+[2022.10.26-19.14.58:327][  0]TimingProfiler: OnSessionChanged
+[2022.10.26-19.14.58:327][  0]LoadingProfiler: Initialize
+[2022.10.26-19.14.58:327][  0]LoadingProfiler: OnSessionChanged
+[2022.10.26-19.14.58:327][  0]NetworkingProfiler: Initialize
+[2022.10.26-19.14.58:327][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.26-19.14.58:327][  0]MemoryProfiler: Initialize
+[2022.10.26-19.14.58:327][  0]MemoryProfiler: OnSessionChanged
+[2022.10.26-19.14.58:443][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-19.14.58:444][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-19.14.58:444][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-19.14.58:747][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/' took 0.01s
+[2022.10.26-19.14.58:747][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.26-19.14.58:882][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.26-19.14.58:882][  0]SourceControl: Source control is disabled
+[2022.10.26-19.14.58:883][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.352
+[2022.10.26-19.14.58:883][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/maps/enviroment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.26-19.14.58:883][  0]LightingResults: New page: Lighting Build
+[2022.10.26-19.14.58:887][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.14.58:887][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.14.58:887][  0]MapCheck: New page: Map Check
+[2022.10.26-19.14.58:887][  0]LightingResults: New page: Lighting Build
+[2022.10.26-19.14.58:891][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-19.14.58:893][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.26-19.14.59:417][  0]LogLinker: Warning: [AssetLog] C:\Users\Joel.crawford\Documents\GitHub\TeamGame2\The_Tent\Content\maps\enviroment.umap: Failed to load '/Game/models/Retop_burntout_log': Can't find file.
+[2022.10.26-19.14.59:417][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/models/Retop_burntout_log'
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: [AssetLog] C:\Users\Joel.crawford\Documents\GitHub\TeamGame2\The_Tent\Content\maps\enviroment.umap: Failed to load '/Game/models/Tree_Branches_01': Can't find file.
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/models/Tree_Branches_01'
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: [AssetLog] C:\Users\Joel.crawford\Documents\GitHub\TeamGame2\The_Tent\Content\maps\enviroment.umap: Failed to load '/Game/models/Tree_Branches_02': Can't find file.
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/models/Tree_Branches_02'
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: [AssetLog] C:\Users\Joel.crawford\Documents\GitHub\TeamGame2\The_Tent\Content\maps\enviroment.umap: Failed to load '/Game/models/Tree_Trunk_01': Can't find file.
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/models/Tree_Trunk_01'
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: [AssetLog] C:\Users\Joel.crawford\Documents\GitHub\TeamGame2\The_Tent\Content\maps\enviroment.umap: Failed to load '/Game/models/Tree_trunk_02': Can't find file.
+[2022.10.26-19.14.59:423][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/models/Tree_trunk_02'
+[2022.10.26-19.15.00:198][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'enviroment'.
+[2022.10.26-19.15.00:198][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-19.15.00:198][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-19.15.00:198][  0]LogAIModule: Creating AISystem for world enviroment
+[2022.10.26-19.15.00:319][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2022.10.26-19.15.00:319][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2022.10.26-19.15.00:319][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-19.15.00:350][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.26-19.15.00:351][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-19.15.00:351][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2022.10.26-19.15.00:351][  0]LogFileHelpers: Loading map 'enviroment' took 1.468
+[2022.10.26-19.15.00:359][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.828
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.26-19.15.00:359][  0]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.15.00:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-19.15.00:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-19.15.00:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-19.15.00:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-19.15.00:514][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:514][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:515][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:515][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:515][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:515][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:516][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:516][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:517][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:517][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:518][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:518][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:519][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:519][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:520][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:520][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:520][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:520][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:522][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.26-19.15.00:522][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-19.15.00:522][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.26-19.15.00:634][  0]LogSlate: Took 0.000520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.26-19.15.00:637][  0]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.26-19.15.00:637][  0]LogSlate: Took 0.000377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.26-19.15.00:653][  0]LogViewport: Scene viewport resized to 2038x1302, mode Windowed.
+[2022.10.26-19.15.00:691][  0]LogSlate: Took 0.000640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.26-19.15.00:755][  0]LogProfilingDebugging: Allocated a 2038 x 1302 texture for HMD canvas layer
+[2022.10.26-19.15.00:773][  0]LogStall: Startup...
+[2022.10.26-19.15.00:774][  0]LogStall: Startup complete.
+[2022.10.26-19.15.00:784][  0]LogLoad: (Engine Initialization) Total time: 10.25 seconds
+[2022.10.26-19.15.00:784][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.26-19.15.00:811][  0]LogAssetRegistry: Asset discovery search completed in 7.2077 seconds
+[2022.10.26-19.15.00:821][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.26-19.15.00:844][  0]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 0.705061 sec, no shader worker used.
+[2022.10.26-19.15.00:846][  0]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_PlayAreaBounds.NS_PlayAreaBounds took 0.693335 sec, no shader worker used.
+[2022.10.26-19.15.00:849][  0]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportRing.NS_TeleportRing took 0.685612 sec, no shader worker used.
+[2022.10.26-19.15.00:853][  0]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 0.670017 sec, no shader worker used.
+[2022.10.26-19.15.00:858][  0]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.10.26-19.15.00:859][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.26-19.15.01:199][  3]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.26-19.15.02:928][107]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.15.49:687][334]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.26-19.15.49:691][334]LogSlate: Took 0.000668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.26-19.16.52:893][504]LogDerivedDataCache: C:/Users/Joel.crawford/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.315 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.26-19.20.06:876][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joel.crawford/Downloads/Tree_trunk_02.fbx)
+[2022.10.26-19.20.06:884][344]LogFbx: Loading FBX Scene from ../../../../../../Users/Joel.crawford/Downloads/Tree_trunk_02.fbx
+[2022.10.26-19.20.06:888][344]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.26-19.20.09:733][344]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.26-19.20.09:750][344]LogFbx: Display: Triangulating static mesh Tree_Trunk_02_Geo
+[2022.10.26-19.20.09:753][344]LogStaticMesh: Display: Building static mesh Tree_trunk_02...
+[2022.10.26-19.20.09:755][344]LogStaticMesh: Built static mesh [0.00s] /Game/models/Tree_trunk_02.Tree_trunk_02
+[2022.10.26-19.20.09:761][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.26-19.20.10:004][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joel.crawford/Downloads/Tree_Trunk_01.fbx)
+[2022.10.26-19.20.10:013][344]LogFbx: Loading FBX Scene from ../../../../../../Users/Joel.crawford/Downloads/Tree_Trunk_01.fbx
+[2022.10.26-19.20.10:016][344]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.26-19.20.10:017][344]LogFbx: Display: Triangulating static mesh Tree_Trunk_01_Geo
+[2022.10.26-19.20.10:018][344]LogStaticMesh: Display: Building static mesh Tree_Trunk_01...
+[2022.10.26-19.20.10:021][344]LogStaticMesh: Built static mesh [0.00s] /Game/models/Tree_Trunk_01.Tree_Trunk_01
+[2022.10.26-19.20.10:025][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.26-19.20.10:039][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joel.crawford/Downloads/Tree_Branches_02.fbx)
+[2022.10.26-19.20.10:051][344]LogFbx: Loading FBX Scene from ../../../../../../Users/Joel.crawford/Downloads/Tree_Branches_02.fbx
+[2022.10.26-19.20.10:055][344]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.26-19.20.10:056][344]LogFbx: Display: Triangulating static mesh Tree_Branches_02
+[2022.10.26-19.20.10:113][344]LogStaticMesh: Display: Building static mesh Tree_Branches_02...
+[2022.10.26-19.20.10:150][344]LogStaticMesh: Built static mesh [0.04s] /Game/models/Tree_Branches_02.Tree_Branches_02
+[2022.10.26-19.20.10:167][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.26-19.20.10:427][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joel.crawford/Downloads/Tree_Branches_01.fbx)
+[2022.10.26-19.20.10:439][344]LogFbx: Loading FBX Scene from ../../../../../../Users/Joel.crawford/Downloads/Tree_Branches_01.fbx
+[2022.10.26-19.20.10:445][344]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.26-19.20.10:446][344]LogFbx: Display: Triangulating static mesh Tree_Branches_01
+[2022.10.26-19.20.10:527][344]LogStaticMesh: Display: Building static mesh Tree_Branches_01...
+[2022.10.26-19.20.10:558][344]LogStaticMesh: Built static mesh [0.03s] /Game/models/Tree_Branches_01.Tree_Branches_01
+[2022.10.26-19.20.10:571][344]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.26-19.20.12:277][495]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-19.20.12:280][495]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-19.20.20:288][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Joel.crawford/Downloads/Retop_burntout_log.fbx)
+[2022.10.26-19.20.20:294][793]LogFbx: Loading FBX Scene from ../../../../../../Users/Joel.crawford/Downloads/Retop_burntout_log.fbx
+[2022.10.26-19.20.20:298][793]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.26-19.20.21:888][793]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.26-19.20.21:905][793]LogFbx: Display: Triangulating static mesh Retop_Burntout_log
+[2022.10.26-19.20.21:926][793]LogStaticMesh: Display: Building static mesh Retop_burntout_log...
+[2022.10.26-19.20.21:938][793]LogStaticMesh: Built static mesh [0.01s] /Game/models/Retop_burntout_log.Retop_burntout_log
+[2022.10.26-19.20.21:945][793]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.26-19.20.23:425][933]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-19.20.23:430][933]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-19.20.28:672][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Trunk_01.Tree_Trunk_01
+[2022.10.26-19.20.28:672][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Trunk_01.Tree_Trunk_01
+[2022.10.26-19.20.28:672][392]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_Trunk_01.Tree_Trunk_01 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_1
+[2022.10.26-19.20.30:601][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Trunk_01.Tree_Trunk_01
+[2022.10.26-19.20.30:601][579]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Trunk_01.Tree_Trunk_01
+[2022.10.26-19.20.30:602][579]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_Trunk_01.Tree_Trunk_01 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_5
+[2022.10.26-19.20.30:650][580]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.34:003][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_trunk_02.Tree_trunk_02
+[2022.10.26-19.20.34:003][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_trunk_02.Tree_trunk_02
+[2022.10.26-19.20.34:003][861]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_trunk_02.Tree_trunk_02 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_10
+[2022.10.26-19.20.35:235][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_trunk_02.Tree_trunk_02
+[2022.10.26-19.20.35:235][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_trunk_02.Tree_trunk_02
+[2022.10.26-19.20.35:235][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_trunk_02.Tree_trunk_02 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_11
+[2022.10.26-19.20.35:277][982]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.37:841][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_01.Tree_Branches_01
+[2022.10.26-19.20.37:841][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_01.Tree_Branches_01
+[2022.10.26-19.20.37:841][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_Branches_01.Tree_Branches_01 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_16
+[2022.10.26-19.20.44:239][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_01.Tree_Branches_01
+[2022.10.26-19.20.44:239][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_01.Tree_Branches_01
+[2022.10.26-19.20.44:240][838]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_Branches_01.Tree_Branches_01 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_18
+[2022.10.26-19.20.44:280][839]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.46:714][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_02.Tree_Branches_02
+[2022.10.26-19.20.46:714][ 50]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_02.Tree_Branches_02
+[2022.10.26-19.20.46:714][ 50]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_Branches_02.Tree_Branches_02 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_26
+[2022.10.26-19.20.48:391][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_02.Tree_Branches_02
+[2022.10.26-19.20.48:391][206]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/models/Tree_Branches_02.Tree_Branches_02
+[2022.10.26-19.20.48:392][206]LogActorFactory: Actor Factory spawned StaticMesh /Game/models/Tree_Branches_02.Tree_Branches_02 as actor: StaticMeshActor /Game/maps/enviroment.enviroment:PersistentLevel.StaticMeshActor_29
+[2022.10.26-19.20.48:441][207]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.50:218][378]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.50:474][403]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.50:596][415]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.51:029][442]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.51:198][445]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.51:941][502]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:117][518]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:198][526]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:393][545]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:415][547]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:513][556]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:555][560]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:599][564]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:660][570]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:704][574]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.52:726][576]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.53:110][613]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.54:182][718]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.54:302][730]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.54:333][733]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.54:495][749]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.54:546][754]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.55:028][803]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.55:331][832]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.55:979][897]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:001][899]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:023][901]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:085][907]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:161][914]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:467][945]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:488][947]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:560][954]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:612][959]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:684][966]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:724][970]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.56:963][994]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.57:023][  0]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.57:184][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.20.57:372][ 33]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.00:897][377]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.00:919][379]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.00:940][381]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.01:458][401]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.01:643][407]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.01:783][420]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.01:814][423]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.02:006][442]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.02:254][465]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.02:872][526]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.02:894][528]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.02:925][531]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.03:243][561]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.12:843][493]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.12:876][496]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.12:909][499]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.12:962][504]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:031][510]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:054][512]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:118][518]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:198][526]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:263][532]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:305][536]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:327][538]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:368][542]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:421][547]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:579][563]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:707][576]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:749][580]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.13:770][582]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.14:004][604]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.22:871][485]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.22:892][487]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.22:954][493]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.22:986][496]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:027][500]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:364][534]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:424][540]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:529][550]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:550][552]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:573][554]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:787][575]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:819][578]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:907][587]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:948][591]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.23:969][593]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.24:001][596]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.24:692][666]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.24:876][683]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.43:311][338]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.26-19.21.47:253][723]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.21.53:721][377]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.03:809][405]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.10:767][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.14:153][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.10.26-19.22.14:158][414]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.003418 seconds
+[2022.10.26-19.22.14:332][414]LogSavePackage: Moving output files for package: /Game/maps/enviroment
+[2022.10.26-19.22.14:333][414]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/enviroment33053BA54B88A7353F3C90B6724C3BDD.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/maps/enviroment.umap'
+[2022.10.26-19.22.14:345][414]LogFileHelpers: No new changes to save!
+[2022.10.26-19.22.14:355][414]AssetCheck: New page: Asset Save: enviroment
+[2022.10.26-19.22.14:355][414]LogContentValidation: Display: Validating World /Game/maps/enviroment.enviroment
+[2022.10.26-19.22.35:790][487]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.35:821][490]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.35:852][493]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.35:883][496]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.35:935][501]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.35:958][503]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.35:980][505]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:062][513]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:094][516]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:180][524]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:231][529]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:284][534]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:393][545]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:425][548]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:446][550]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:467][552]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:509][556]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.36:676][571]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.50:262][924]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.50:714][942]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.50:756][946]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.50:876][958]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.50:907][961]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.50:960][966]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.22.51:121][980]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.23.08:356][516]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Texture/asset_textures/Tree_branches.Tree_branches
+[2022.10.26-19.23.08:357][516]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 9B9BF877B4E5EF556CDAE72A10785CC86258ED1C), compiling. 
+[2022.10.26-19.23.08:400][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-19.23.08:491][516]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 2B0AA48DE8D97DB223FAE224153C7A1CC2B8DF23), compiling. 
+[2022.10.26-19.23.08:495][516]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 3AD961E7F359030E8EF32802921D38036B5FC09D), compiling. 
+[2022.10.26-19.23.08:496][516]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 921B1234264AE4BF400104E12EBFC9CD26E386CF), compiling. 
+[2022.10.26-19.23.08:497][516]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 17CF64226642E6281B2FF807B354EEDC4436F41D), compiling. 
+[2022.10.26-19.23.08:499][516]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CFB4AC71CA4166AA397C4965E476CC60674F591), compiling. 
+[2022.10.26-19.23.08:500][516]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1D86F40B765EDC8E080B4D7D47F3EB0130239D7C), compiling. 
+[2022.10.26-19.23.08:501][516]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DFB7E36C24D507A734694127863326F6EA047D9), compiling. 
+[2022.10.26-19.23.08:502][516]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AC6318B268B0F05CDC89311D00B1D12A5CBB7BA), compiling. 
+[2022.10.26-19.23.08:520][516]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.26-19.23.08:520][516]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.08:520][516]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.08:520][516]MaterialEditorStats: Shader Count: 0
+[2022.10.26-19.23.08:527][516]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.26-19.23.08:528][516]LogViewport: Scene viewport resized to 504x649, mode Windowed.
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Total job queries 28, among them cache hits 0 (0.00%)
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 3 distinct outputs (60.00%)
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Shaders Compiled: 26
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Jobs assigned 15, completed 5 (33.33%)
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Time job spent in pending queue: average 0.80 s, longest 2.27 s
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Job execution time: average 2.31 s, max 2.34 s
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Job life time (pending + execution): average 2.38 s, max 2.41
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.41 s
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Average processing rate: 2.07 jobs/sec
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Effective parallelization: 1.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 58.16% of total time (compiled    3 times, average 0.77 sec, max 0.78 sec, min 0.76 sec)
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 41.84% of total time (compiled    2 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2022.10.26-19.23.11:097][724]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.23.11:275][741]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.26-19.23.11:275][741]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.11:275][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.11:275][741]MaterialEditorStats: Shader Count: 1
+[2022.10.26-19.23.11:878][771]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A785D3ED2595148AFB5A1AEA15E6243B7E330B2A), compiling. 
+[2022.10.26-19.23.11:879][771]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: CD24274A1512650CAA23CBE5FA2724AE138E3663), compiling. 
+[2022.10.26-19.23.11:880][771]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: B8CE5E5A2560CA350F04CED145409CC69A8AD476), compiling. 
+[2022.10.26-19.23.11:881][771]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: FAB6C6246BEAE78C8D88E6FD31A51A015027BA70), compiling. 
+[2022.10.26-19.23.11:882][771]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 92A20C4014CB5BC8B36ABE283C55CFDB2AD50C81), compiling. 
+[2022.10.26-19.23.11:883][771]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 8B5A6AAE600A82C2DC6FA8919A19F1D35DD627B7), compiling. 
+[2022.10.26-19.23.12:494][807]MaterialEditorStats: Texture samplers: 8/16
+[2022.10.26-19.23.12:494][807]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.12:494][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.12:494][807]MaterialEditorStats: Shader Count: 4
+[2022.10.26-19.23.12:802][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 31396F971B8238C82C4238CDC99C30074AB8C8CD), compiling. 
+[2022.10.26-19.23.12:803][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F227D4E2DCE19DEDAAE74C9616D777018EE4BD8B), compiling. 
+[2022.10.26-19.23.12:804][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: A7492AAF422A8DC329EF1BB3B596B120DCB5BFCC), compiling. 
+[2022.10.26-19.23.12:805][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 668DE6EAF04828F62FB0DD2642235B086307C8DF), compiling. 
+[2022.10.26-19.23.12:806][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 25CDBE87C3115D73424111B848BA8A8C02D6C864), compiling. 
+[2022.10.26-19.23.12:807][838]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 733D9B55AB0D188E604142695461840D7E1BE6CC), compiling. 
+[2022.10.26-19.23.19:467][507]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: FE2FD110F320B88CF9B1BD35B64E220875A2AB46), compiling. 
+[2022.10.26-19.23.23:592][964]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: BF469C37E3EB57C1D1F313D1A869CF482A10E1F3), compiling. 
+[2022.10.26-19.23.23:596][964]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: F8A5DCD142BED1D4564E1472855EB62E8F0061FC), compiling. 
+[2022.10.26-19.23.23:600][964]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 62E12FBEE27FB8BB81C72BB4E0B9AFA3B8FD923D), compiling. 
+[2022.10.26-19.23.23:611][964]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.26-19.23.23:611][964]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.23:611][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.23:611][964]MaterialEditorStats: Shader Count: 0
+[2022.10.26-19.23.23:640][966]MaterialEditorStats: Texture samplers: 8/16
+[2022.10.26-19.23.23:640][966]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.23:640][966]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.23:640][966]MaterialEditorStats: Shader Count: 4
+[2022.10.26-19.23.28:073][412]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: E6ED9305AB19AB8F56D852DBB47A5B9E1340B486), compiling. 
+[2022.10.26-19.23.28:076][412]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 347FA11404E1E9B0DA2FC35A6E0265B4DE6C9011), compiling. 
+[2022.10.26-19.23.28:079][412]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: D24FA27FDAC2CEAB5F26FBF955680A3B978D4C83), compiling. 
+[2022.10.26-19.23.28:087][412]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.26-19.23.28:087][412]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.28:087][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.28:087][412]MaterialEditorStats: Shader Count: 0
+[2022.10.26-19.23.28:876][476]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.26-19.23.28:876][476]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.28:876][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.28:876][476]MaterialEditorStats: Shader Count: 3
+[2022.10.26-19.23.30:012][578]MaterialEditorStats: Texture samplers: 8/16
+[2022.10.26-19.23.30:012][578]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.26-19.23.30:012][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.30:012][578]MaterialEditorStats: Shader Count: 8
+[2022.10.26-19.23.33:418][915]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 2ADC6D3E3BCB457BF583295735704F63E6BB7A63), compiling. 
+[2022.10.26-19.23.33:419][915]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: C4914EA7563C23FF5E7AA2061880C430B79BE9DD), compiling. 
+[2022.10.26-19.23.33:428][915]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.26-19.23.33:428][915]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.33:429][915]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.33:429][915]MaterialEditorStats: Shader Count: 0
+[2022.10.26-19.23.33:893][953]MaterialEditorStats: Texture samplers: 1/16
+[2022.10.26-19.23.33:893][953]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.33:893][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.33:893][953]MaterialEditorStats: Shader Count: 1
+[2022.10.26-19.23.34:432][996]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.26-19.23.34:432][996]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.34:433][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.34:433][996]MaterialEditorStats: Shader Count: 5
+[2022.10.26-19.23.34:518][  3]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.26-19.23.34:518][  3]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.34:518][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.34:518][  3]MaterialEditorStats: Shader Count: 7
+[2022.10.26-19.23.35:633][110]MaterialEditorStats: Texture samplers: 9/16
+[2022.10.26-19.23.35:633][110]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.35:633][110]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.35:633][110]MaterialEditorStats: Shader Count: 12
+[2022.10.26-19.23.41:621][722]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: BBC8B5D5CBE29D2A2A30B4AF9D0B6C268E4684CD), compiling. 
+[2022.10.26-19.23.41:630][722]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.26-19.23.41:630][722]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.41:630][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.41:630][722]MaterialEditorStats: Shader Count: 0
+[2022.10.26-19.23.41:666][724]MaterialEditorStats: Texture samplers: 9/16
+[2022.10.26-19.23.41:666][724]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.41:666][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.41:666][724]MaterialEditorStats: Shader Count: 12
+[2022.10.26-19.23.47:303][289]LogMaterialEditor: Saving and Compiling material Tree_branches
+[2022.10.26-19.23.47:837][289]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 0E00569B95E4F8D743A2E291DC1492B91464ED6E), compiling. 
+[2022.10.26-19.23.47:852][289]LogMaterial: Display: Missing cached shadermap for Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 6D4BCBA9E37094D0C7A302ECCC7A1B802CD0ADB4), compiling. 
+[2022.10.26-19.23.47:908][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.26-19.23.48:924][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.10.26-19.23.53:362][289]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.10.26-19.23.53:362][289]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049920s
+[2022.10.26-19.23.56:098][289]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005012s (2.784913s overbudget)
+[2022.10.26-19.23.56:121][289]LogSavePackage: Moving output files for package: /Game/Texture/asset_textures/Tree_branches
+[2022.10.26-19.23.56:122][289]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Tree_branches62ED67F04B33C36E9C6266B2F4FE4E3D.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/Texture/asset_textures/Tree_branches.uasset'
+[2022.10.26-19.23.56:135][289]AssetCheck: New page: Asset Save: Tree_branches
+[2022.10.26-19.23.56:135][289]LogContentValidation: Display: Validating Material /Game/Texture/asset_textures/Tree_branches.Tree_branches
+[2022.10.26-19.23.56:135][289]MaterialEditorStats: Base pass shader: 861 instructions
+[2022.10.26-19.23.56:135][289]MaterialEditorStats: Base pass shader with Surface Lightmap: 886 instructions
+[2022.10.26-19.23.56:136][289]MaterialEditorStats: Base pass vertex shader: 337 instructions
+[2022.10.26-19.23.56:136][289]MaterialEditorStats: Texture samplers: 10/16
+[2022.10.26-19.23.56:136][289]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.23.56:136][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.23.56:136][289]MaterialEditorStats: Shader Count: 48
+[2022.10.26-19.24.26:821][289]LogSlate: Took 0.001874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.10.26-19.25.07:062][188]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:144][196]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:186][200]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:309][212]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:486][230]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:517][233]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:549][236]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:581][239]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:612][242]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:664][247]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:728][253]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:761][256]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:804][260]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:856][265]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:888][268]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.07:909][270]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:019][281]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:060][285]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:092][288]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:114][290]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:136][292]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:157][294]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:188][297]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:210][299]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:232][301]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:371][315]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:441][322]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:621][340]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:737][351]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:758][353]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:819][359]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.08:940][371]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.09:129][388]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.11:866][658]Cmd: TRANSACTION UNDO
+[2022.10.26-19.25.11:866][658]LogEditorTransaction: Undo Scale Elements
+[2022.10.26-19.25.11:875][658]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: AE011EC863C3B5E189758E3DD4698EF7B22C4BC9), compiling. 
+[2022.10.26-19.25.11:899][658]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.26-19.25.11:899][658]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.25.11:899][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.25.11:899][658]MaterialEditorStats: Shader Count: 0
+[2022.10.26-19.25.11:949][659]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.11:990][660]Cmd: TRANSACTION UNDO
+[2022.10.26-19.25.11:990][660]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.26-19.25.11:999][660]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 7D052155A72628770F44860A8139AC33218987DC), compiling. 
+[2022.10.26-19.25.12:178][662]MaterialEditorStats: Texture samplers: 9/16
+[2022.10.26-19.25.12:178][662]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.25.12:178][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.25.12:178][662]MaterialEditorStats: Shader Count: 12
+[2022.10.26-19.25.14:077][823]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.14:814][851]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.14:835][853]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.14:867][856]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.14:949][862]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.15:785][944]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.15:807][946]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.15:860][951]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.16:232][985]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.16:323][994]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.16:364][998]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.16:386][  0]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.16:633][ 23]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:103][656]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:134][659]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:186][664]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:228][668]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:259][671]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:300][675]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:412][686]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:443][689]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:464][691]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:487][693]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:518][696]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:607][705]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:628][707]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:709][715]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.23:857][730]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.24:013][744]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.25:310][843]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.25:487][848]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.25:840][883]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.25:871][886]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.25:984][897]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.26:007][899]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.26:028][901]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.26:345][931]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:142][  9]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:164][ 11]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:225][ 17]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:246][ 19]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:278][ 22]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:330][ 27]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:564][ 50]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:607][ 54]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.27:638][ 57]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.28:327][124]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:416][328]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:437][330]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:459][332]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:490][335]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:512][337]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:556][341]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:610][346]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:663][351]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.30:770][361]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:027][386]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:049][388]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:093][392]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:159][398]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:180][400]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:212][403]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:253][407]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:406][422]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:427][424]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:518][433]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:583][439]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:605][441]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:692][449]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:724][452]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:767][456]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:811][460]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.31:831][462]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.32:279][498]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.25.32:784][511]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.10:275][210]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.10:433][226]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.10:455][228]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.10:488][231]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.10:876][267]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.11:284][275]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.11:714][307]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.11:784][314]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.11:913][327]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.12:395][374]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.14:035][513]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.14:969][581]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.15:035][587]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.15:165][599]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.20:154][ 74]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.20:356][ 78]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.20:522][ 82]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.36:856][671]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.36:879][673]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.37:229][706]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:140][964]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:423][972]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:569][986]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:612][990]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:655][994]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:779][  6]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:879][ 16]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:901][ 18]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.40:944][ 22]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.41:188][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:044][128]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:109][134]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:131][136]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:222][145]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:245][147]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:286][151]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:425][164]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:478][169]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:754][196]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.42:839][204]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.43:002][218]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.44:055][319]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.44:077][321]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.44:117][325]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.44:209][334]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.44:231][336]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.44:337][344]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.45:312][438]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.45:435][450]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.45:527][459]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.45:589][465]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.45:958][502]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.46:269][531]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.47:719][673]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.48:043][689]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.48:296][694]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.26.48:401][698]LogNavigationDataBuild: Navigation data generation finished in /Game/maps/enviroment.
+[2022.10.26-19.27.01:115][953]Cmd: TRANSACTION UNDO
+[2022.10.26-19.27.01:115][953]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.26-19.27.01:130][953]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 8F6FAF3A1C70D02C6A38E0596467D3795B8CA824), compiling. 
+[2022.10.26-19.27.01:157][953]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.26-19.27.01:157][953]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.27.01:157][953]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.27.01:157][953]MaterialEditorStats: Shader Count: 0
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Total job queries 181, among them cache hits 102 (56.35%)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 47 distinct outputs (71.21%)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Shaders Compiled: 35
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100.00%)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Average time worker was idle: 6.39 s
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Time job spent in pending queue: average 1.35 s, longest 5.09 s
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Job execution time: average 1.57 s, max 4.30 s
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Job life time (pending + execution): average 2.92 s, max 7.05
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.20 s
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Average processing rate: 4.07 jobs/sec
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Effective parallelization: 4.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 3.45 sec, max 3.45 sec, min 3.45 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 3.32 sec, max 3.32 sec, min 3.32 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.30 sec, max 3.30 sec, min 3.30 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.46% of total time (compiled    7 times, average 1.02 sec, max 3.29 sec, min 0.52 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.85% of total time (compiled    9 times, average 0.75 sec, max 0.92 sec, min 0.57 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.62% of total time (compiled    3 times, average 1.97 sec, max 2.20 sec, min 1.79 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.16% of total time (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.06% of total time (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2022.10.26-19.27.01:201][954]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.27.01:274][955]MaterialEditorStats: Texture samplers: 9/16
+[2022.10.26-19.27.01:274][955]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2022.10.26-19.27.01:274][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.26-19.27.01:274][955]MaterialEditorStats: Shader Count: 4
+[2022.10.26-19.28.03:662][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.10.26-19.28.03:820][893]LogSavePackage: Moving output files for package: /Game/maps/enviroment
+[2022.10.26-19.28.03:820][893]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/enviromentB6E2E9D847149FCA552BC6ADFA27DBF8.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/maps/enviroment.umap'
+[2022.10.26-19.28.03:830][893]LogFileHelpers: No new changes to save!
+[2022.10.26-19.28.03:843][893]AssetCheck: New page: Asset Save: enviroment
+[2022.10.26-19.28.03:843][893]LogContentValidation: Display: Validating World /Game/maps/enviroment.enviroment
+[2022.10.26-19.28.11:957][146]LogSlate: Window 'Message' being destroyed
+[2022.10.26-19.28.11:964][146]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Texture/asset_textures/Tree_branches.Tree_branches
+(Selecting 'No' will cause all changes to be lost!)
+[2022.10.26-19.28.12:474][146]LogMaterial: Display: Missing cached shadermap for Preview:Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: 69DF8C1F9E6E70D0F01D9F5273DB2B12B1D41768), compiling. 
+[2022.10.26-19.28.12:488][146]LogMaterial: Display: Missing cached shadermap for Tree_branches in PCD3D_SM5, Default, SM5 (DDC key hash: B3F16D3B6C9C35CACB689ACF0A1B2A361AE5EBA9), compiling. 
+[2022.10.26-19.28.12:496][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.26-19.28.12:708][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.10.26-19.28.12:716][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.10.26-19.28.14:677][146]LogSlate: Window 'Save Content' being destroyed
+[2022.10.26-19.28.14:743][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Retop_burntout_log" FILE="../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Retop_burntout_log.uasset" SILENT=true
+[2022.10.26-19.28.14:748][146]LogSavePackage: Moving output files for package: /Game/models/Retop_burntout_log
+[2022.10.26-19.28.14:748][146]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Retop_burntout_log0FFC918F4D9EAD48C4121A9C9D48FA2B.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Retop_burntout_log.uasset'
+[2022.10.26-19.28.14:822][146]LogSavePackage: Moving output files for package: /Game/Texture/asset_textures/Tree_branches
+[2022.10.26-19.28.14:823][146]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Tree_branches92F2AA374E241D7DF2A487A0E1E7EBBC.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/Texture/asset_textures/Tree_branches.uasset'
+[2022.10.26-19.28.14:828][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Tree_Branches_01" FILE="../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_Branches_01.uasset" SILENT=true
+[2022.10.26-19.28.14:834][146]LogSavePackage: Moving output files for package: /Game/models/Tree_Branches_01
+[2022.10.26-19.28.14:834][146]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Tree_Branches_010D65980E4ADF065001AAD6B198D8E589.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_Branches_01.uasset'
+[2022.10.26-19.28.14:838][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Tree_Branches_02" FILE="../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_Branches_02.uasset" SILENT=true
+[2022.10.26-19.28.14:844][146]LogSavePackage: Moving output files for package: /Game/models/Tree_Branches_02
+[2022.10.26-19.28.14:844][146]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Tree_Branches_02B1D48D6B426D702615A83E80B54ADD4A.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_Branches_02.uasset'
+[2022.10.26-19.28.14:849][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Tree_Trunk_01" FILE="../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_Trunk_01.uasset" SILENT=true
+[2022.10.26-19.28.14:852][146]LogSavePackage: Moving output files for package: /Game/models/Tree_Trunk_01
+[2022.10.26-19.28.14:852][146]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Tree_Trunk_0172E8B4754BEDF5C55211F3855170E4FE.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_Trunk_01.uasset'
+[2022.10.26-19.28.14:857][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Tree_trunk_02" FILE="../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_trunk_02.uasset" SILENT=true
+[2022.10.26-19.28.14:860][146]LogSavePackage: Moving output files for package: /Game/models/Tree_trunk_02
+[2022.10.26-19.28.14:860][146]LogSavePackage: Moving '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Saved/Tree_trunk_02FB6182BA451BD7ECC9B31F93687E911A.tmp' to '../../../../../../Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/models/Tree_trunk_02.uasset'
+[2022.10.26-19.28.14:862][146]LogStall: Shutdown...
+[2022.10.26-19.28.14:867][146]LogStall: Shutdown complete.
+[2022.10.26-19.28.14:936][146]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.14:936][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.28.14:964][146]LogSlate: Window 'The_Tent - Unreal Editor' being destroyed
+[2022.10.26-19.28.15:060][146]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.26-19.28.15:060][146]LogContentValidation: Display: Validating StaticMesh /Game/models/Retop_burntout_log.Retop_burntout_log
+[2022.10.26-19.28.15:060][146]LogContentValidation: Display: Validating StaticMesh /Game/models/Tree_Branches_01.Tree_Branches_01
+[2022.10.26-19.28.15:060][146]LogContentValidation: Display: Validating StaticMesh /Game/models/Tree_Branches_02.Tree_Branches_02
+[2022.10.26-19.28.15:060][146]LogContentValidation: Display: Validating StaticMesh /Game/models/Tree_Trunk_01.Tree_Trunk_01
+[2022.10.26-19.28.15:060][146]LogContentValidation: Display: Validating StaticMesh /Game/models/Tree_trunk_02.Tree_trunk_02
+[2022.10.26-19.28.15:060][146]LogContentValidation: Display: Validating Material /Game/Texture/asset_textures/Tree_branches.Tree_branches
+[2022.10.26-19.28.15:061][147]Cmd: QUIT_EDITOR
+[2022.10.26-19.28.15:061][147]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.10.26-19.28.15:064][147]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.26-19.28.15:064][147]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.10.26-19.28.15:064][147]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.10.26-19.28.15:067][147]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.10.26-19.28.15:068][147]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.10.26-19.28.15:068][147]LogAudio: Display: Audio Device unregistered from world 'enviroment'.
+[2022.10.26-19.28.15:068][147]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.10.26-19.28.15:068][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.26-19.28.15:069][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.26-19.28.15:072][147]LogAudio: Display: Audio Device Manager Shutdown
+[2022.10.26-19.28.15:072][147]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.26-19.28.15:076][147]LogExit: Preparing to exit.
+[2022.10.26-19.28.15:083][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.26-19.28.15:495][147]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:495][147]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:495][147]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:496][147]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:500][147]LogWorld: UWorld::CleanupWorld for enviroment, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.28.15:501][147]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/Joel.crawford/Documents/GitHub/TeamGame2/The_Tent/Content/] 
+[2022.10.26-19.28.15:516][147]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.26-19.28.15:531][147]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.10.26-19.28.15:534][147]LogExit: Editor shut down
+[2022.10.26-19.28.15:535][147]LogExit: Transaction tracking system shut down
+[2022.10.26-19.28.15:632][147]LogExit: Object subsystem successfully closed.
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Total job queries 242, among them cache hits 163 (67.36%)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Tracking 66 distinct input hashes that result in 47 distinct outputs (71.21%)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: RAM used: 0.21 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.01%
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Shaders Compiled: 35
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100.00%)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Average time worker was idle: 6.39 s
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Time job spent in pending queue: average 1.35 s, longest 5.09 s
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Job execution time: average 1.57 s, max 4.30 s
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Job life time (pending + execution): average 2.92 s, max 7.05
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.20 s
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Average processing rate: 4.07 jobs/sec
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Effective parallelization: 4.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    1 times, average 3.45 sec, max 3.45 sec, min 3.45 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 3.32 sec, max 3.32 sec, min 3.32 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 3.30 sec, max 3.30 sec, min 3.30 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.46% of total time (compiled    7 times, average 1.02 sec, max 3.29 sec, min 0.52 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.85% of total time (compiled    9 times, average 0.75 sec, max 0.92 sec, min 0.57 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.62% of total time (compiled    3 times, average 1.97 sec, max 2.20 sec, min 1.79 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.16% of total time (compiled    1 times, average 3.53 sec, max 3.53 sec, min 3.53 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.06% of total time (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2022.10.26-19.28.15:638][147]LogShaderCompilers: Display: ================================================
+[2022.10.26-19.28.15:653][147]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.26-19.28.15:655][147]LogWindows: Windows GetLastError: The operation completed successfully. (0)
